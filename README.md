@@ -13,12 +13,12 @@ Soportadas también con la implementación de Redes Neuronales Artificiales (RNA
 # Descripción del dataset
 Nos encontramos con una base de datos 'Movie Reviews' en donde estaremos usando la hoja 'data' en donde encontramos apróximadamente 1.700 reseñas de películas hasta el año 2020 las cuales se dividen  en las siguientes columnas / variables
 
-# 'year' = Año de estreno de la película.
-# 'movie' = Nombre de la película
-# 'rating' = Puntuación o calificación ponderada.
-# 'helpful' = Indica cuantas veces la reseña fue de ayuda.
-# 'total' =  Total de reacciones
-# 'username' = Nombre de usuario de quien realiza la reseña.
-# 'date' = Fecha de publicación de la reseña.
-# 'title' = Título de la reseña.
-# 'review' = Texto de la reseña.
+'year' = Año de estreno de la película.
+'movie' = Nombre de la película
+'rating' = Puntuación o calificación ponderada.
+'helpful' = Indica cuantas veces la reseña fue de ayuda.
+'total' =  Total de reacciones
+'username' = Nombre de usuario de quien realiza la reseña.
+'date' = Fecha de publicación de la reseña.
+'title' = Título de la reseña.
+'review' = Texto de la reseña.
